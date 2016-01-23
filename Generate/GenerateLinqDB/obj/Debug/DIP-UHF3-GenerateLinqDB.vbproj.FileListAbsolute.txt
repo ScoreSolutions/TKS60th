@@ -1,0 +1,14 @@
+D:\MyProject\DIP-UHF3\GenerateLinqDB\trunk\DIP-UHF3-GenerateLinqDB\DIP-UHF3-GenerateLinqDB\obj\Debug\DIP_UHF3_GenerateLinqDB.GenerateCode.resources
+D:\MyProject\DIP-UHF3\GenerateLinqDB\trunk\DIP-UHF3-GenerateLinqDB\DIP-UHF3-GenerateLinqDB\obj\Debug\DIP_UHF3_GenerateLinqDB.Resources.resources
+D:\MyProject\DIP-UHF3\GenerateLinqDB\trunk\DIP-UHF3-GenerateLinqDB\DIP-UHF3-GenerateLinqDB\obj\Debug\DIP-UHF3-GenerateLinqDB.vbproj.GenerateResource.Cache
+D:\MyProject\DIP-UHF3\GenerateLinqDB\trunk\DIP-UHF3-GenerateLinqDB\DIP-UHF3-GenerateLinqDB\bin\Debug\DIP-UHF3-GenerateLinqDB.exe.config
+D:\MyProject\DIP-UHF3\GenerateLinqDB\trunk\DIP-UHF3-GenerateLinqDB\DIP-UHF3-GenerateLinqDB\bin\Debug\DIP-UHF3-GenerateLinqDB.exe
+D:\MyProject\DIP-UHF3\GenerateLinqDB\trunk\DIP-UHF3-GenerateLinqDB\DIP-UHF3-GenerateLinqDB\bin\Debug\DIP-UHF3-GenerateLinqDB.pdb
+D:\MyProject\DIP-UHF3\GenerateLinqDB\trunk\DIP-UHF3-GenerateLinqDB\DIP-UHF3-GenerateLinqDB\bin\Debug\DIP-UHF3-GenerateLinqDB.xml
+D:\MyProject\DIP-UHF3\GenerateLinqDB\trunk\DIP-UHF3-GenerateLinqDB\DIP-UHF3-GenerateLinqDB\bin\Debug\LinqDB.dll
+D:\MyProject\DIP-UHF3\GenerateLinqDB\trunk\DIP-UHF3-GenerateLinqDB\DIP-UHF3-GenerateLinqDB\bin\Debug\LinqDB.pdb
+D:\MyProject\DIP-UHF3\GenerateLinqDB\trunk\DIP-UHF3-GenerateLinqDB\DIP-UHF3-GenerateLinqDB\bin\Debug\LinqDB.xml
+D:\MyProject\DIP-UHF3\GenerateLinqDB\trunk\DIP-UHF3-GenerateLinqDB\DIP-UHF3-GenerateLinqDB\obj\Debug\DIP-UHF3-GenerateLinqDB.exe
+D:\MyProject\DIP-UHF3\GenerateLinqDB\trunk\DIP-UHF3-GenerateLinqDB\DIP-UHF3-GenerateLinqDB\obj\Debug\DIP-UHF3-GenerateLinqDB.xml
+D:\MyProject\DIP-UHF3\GenerateLinqDB\trunk\DIP-UHF3-GenerateLinqDB\DIP-UHF3-GenerateLinqDB\obj\Debug\DIP-UHF3-GenerateLinqDB.pdb
+D:\MyProject\DIP-UHF3\GenerateLinqDB\trunk\DIP-UHF3-GenerateLinqDB\DIP-UHF3-GenerateLinqDB\obj\Debug\DIP-UHF3-GenerateLinqDB.vbprojResolveAssemblyReference.cache

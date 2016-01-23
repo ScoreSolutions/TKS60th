@@ -1,0 +1,9 @@
+D:\MyProject\TKS60th\Solutions\LinqDB\bin\Debug\LinqDB.dll
+D:\MyProject\TKS60th\Solutions\LinqDB\bin\Debug\LinqDB.pdb
+D:\MyProject\TKS60th\Solutions\LinqDB\bin\Debug\LinqDB.xml
+D:\MyProject\TKS60th\Solutions\LinqDB\obj\Debug\LinqDB.Resources.resources
+D:\MyProject\TKS60th\Solutions\LinqDB\obj\Debug\LinqDB.vbproj.GenerateResource.Cache
+D:\MyProject\TKS60th\Solutions\LinqDB\obj\Debug\LinqDB.dll
+D:\MyProject\TKS60th\Solutions\LinqDB\obj\Debug\LinqDB.xml
+D:\MyProject\TKS60th\Solutions\LinqDB\obj\Debug\LinqDB.pdb
+D:\MyProject\TKS60th\Solutions\LinqDB\obj\Debug\LinqDB.vbprojResolveAssemblyReference.cache

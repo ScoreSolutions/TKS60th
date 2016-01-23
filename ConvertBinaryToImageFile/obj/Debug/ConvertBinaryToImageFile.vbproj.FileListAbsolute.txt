@@ -1,0 +1,17 @@
+D:\MyProject\TKS60th\Solutions\ConvertBinaryToImageFile\bin\Debug\ConvertBinaryToImageFile.exe.config
+D:\MyProject\TKS60th\Solutions\ConvertBinaryToImageFile\bin\Debug\ConvertBinaryToImageFile.exe
+D:\MyProject\TKS60th\Solutions\ConvertBinaryToImageFile\bin\Debug\ConvertBinaryToImageFile.pdb
+D:\MyProject\TKS60th\Solutions\ConvertBinaryToImageFile\bin\Debug\ConvertBinaryToImageFile.xml
+D:\MyProject\TKS60th\Solutions\ConvertBinaryToImageFile\bin\Debug\Engine.dll
+D:\MyProject\TKS60th\Solutions\ConvertBinaryToImageFile\bin\Debug\LinqDB.dll
+D:\MyProject\TKS60th\Solutions\ConvertBinaryToImageFile\bin\Debug\Engine.pdb
+D:\MyProject\TKS60th\Solutions\ConvertBinaryToImageFile\bin\Debug\Engine.xml
+D:\MyProject\TKS60th\Solutions\ConvertBinaryToImageFile\bin\Debug\LinqDB.pdb
+D:\MyProject\TKS60th\Solutions\ConvertBinaryToImageFile\bin\Debug\LinqDB.xml
+D:\MyProject\TKS60th\Solutions\ConvertBinaryToImageFile\obj\Debug\ConvertBinaryToImageFile.vbprojResolveAssemblyReference.cache
+D:\MyProject\TKS60th\Solutions\ConvertBinaryToImageFile\obj\Debug\ConvertBinaryToImageFile.Form1.resources
+D:\MyProject\TKS60th\Solutions\ConvertBinaryToImageFile\obj\Debug\ConvertBinaryToImageFile.Resources.resources
+D:\MyProject\TKS60th\Solutions\ConvertBinaryToImageFile\obj\Debug\ConvertBinaryToImageFile.vbproj.GenerateResource.Cache
+D:\MyProject\TKS60th\Solutions\ConvertBinaryToImageFile\obj\Debug\ConvertBinaryToImageFile.exe
+D:\MyProject\TKS60th\Solutions\ConvertBinaryToImageFile\obj\Debug\ConvertBinaryToImageFile.xml
+D:\MyProject\TKS60th\Solutions\ConvertBinaryToImageFile\obj\Debug\ConvertBinaryToImageFile.pdb

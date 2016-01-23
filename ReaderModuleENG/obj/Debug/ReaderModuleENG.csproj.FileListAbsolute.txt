@@ -1,0 +1,5 @@
+D:\MyProject\TKS60th\Solutions\ReaderModuleENG\obj\Debug\ReaderModuleENG.csprojResolveAssemblyReference.cache
+D:\MyProject\TKS60th\Solutions\ReaderModuleENG\bin\Debug\ReaderModuleENG.dll
+D:\MyProject\TKS60th\Solutions\ReaderModuleENG\bin\Debug\ReaderModuleENG.pdb
+D:\MyProject\TKS60th\Solutions\ReaderModuleENG\obj\Debug\ReaderModuleENG.dll
+D:\MyProject\TKS60th\Solutions\ReaderModuleENG\obj\Debug\ReaderModuleENG.pdb

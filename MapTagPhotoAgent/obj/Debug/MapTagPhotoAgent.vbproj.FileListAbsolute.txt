@@ -1,0 +1,17 @@
+D:\MyProject\TKS60th\Solutions\MapTagPhotoAgent\bin\Debug\MapTagPhotoAgent.exe.config
+D:\MyProject\TKS60th\Solutions\MapTagPhotoAgent\bin\Debug\MapTagPhotoAgent.exe
+D:\MyProject\TKS60th\Solutions\MapTagPhotoAgent\bin\Debug\MapTagPhotoAgent.pdb
+D:\MyProject\TKS60th\Solutions\MapTagPhotoAgent\bin\Debug\MapTagPhotoAgent.xml
+D:\MyProject\TKS60th\Solutions\MapTagPhotoAgent\obj\Debug\MapTagPhotoAgent.Resources.resources
+D:\MyProject\TKS60th\Solutions\MapTagPhotoAgent\obj\Debug\MapTagPhotoAgent.vbproj.GenerateResource.Cache
+D:\MyProject\TKS60th\Solutions\MapTagPhotoAgent\obj\Debug\MapTagPhotoAgent.exe
+D:\MyProject\TKS60th\Solutions\MapTagPhotoAgent\obj\Debug\MapTagPhotoAgent.xml
+D:\MyProject\TKS60th\Solutions\MapTagPhotoAgent\obj\Debug\MapTagPhotoAgent.pdb
+D:\MyProject\TKS60th\Solutions\MapTagPhotoAgent\obj\Debug\MapTagPhotoAgent.frmMapTagPhoto.resources
+D:\MyProject\TKS60th\Solutions\MapTagPhotoAgent\bin\Debug\Engine.dll
+D:\MyProject\TKS60th\Solutions\MapTagPhotoAgent\bin\Debug\LinqDB.dll
+D:\MyProject\TKS60th\Solutions\MapTagPhotoAgent\bin\Debug\Engine.pdb
+D:\MyProject\TKS60th\Solutions\MapTagPhotoAgent\bin\Debug\Engine.xml
+D:\MyProject\TKS60th\Solutions\MapTagPhotoAgent\bin\Debug\LinqDB.pdb
+D:\MyProject\TKS60th\Solutions\MapTagPhotoAgent\bin\Debug\LinqDB.xml
+D:\MyProject\TKS60th\Solutions\MapTagPhotoAgent\obj\Debug\MapTagPhotoAgent.vbprojResolveAssemblyReference.cache

@@ -1,0 +1,8 @@
+D:\MyProject\TKS60th\Solutions\ReaderTCPSpeedwayENG\bin\Debug\ReaderTCPSpeedwayENG.dll
+D:\MyProject\TKS60th\Solutions\ReaderTCPSpeedwayENG\bin\Debug\ReaderTCPSpeedwayENG.pdb
+D:\MyProject\TKS60th\Solutions\ReaderTCPSpeedwayENG\obj\Debug\ReaderTCPSpeedwayENG.csprojResolveAssemblyReference.cache
+D:\MyProject\TKS60th\Solutions\ReaderTCPSpeedwayENG\obj\Debug\ReaderTCPSpeedwayENG.dll
+D:\MyProject\TKS60th\Solutions\ReaderTCPSpeedwayENG\obj\Debug\ReaderTCPSpeedwayENG.pdb
+D:\MyProject\TKS60th\Solutions\ReaderTCPSpeedwayENG\bin\Debug\Impinj.OctaneSdk.dll
+D:\MyProject\TKS60th\Solutions\ReaderTCPSpeedwayENG\bin\Debug\LLRP.dll
+D:\MyProject\TKS60th\Solutions\ReaderTCPSpeedwayENG\bin\Debug\LLRP.Impinj.dll

@@ -1,0 +1,15 @@
+D:\MyProject\TKS60th\Solutions\Engine\bin\Debug\Engine.dll
+D:\MyProject\TKS60th\Solutions\Engine\bin\Debug\Engine.pdb
+D:\MyProject\TKS60th\Solutions\Engine\bin\Debug\Engine.xml
+D:\MyProject\TKS60th\Solutions\Engine\bin\Debug\LinqDB.dll
+D:\MyProject\TKS60th\Solutions\Engine\bin\Debug\LinqDB.pdb
+D:\MyProject\TKS60th\Solutions\Engine\bin\Debug\LinqDB.xml
+D:\MyProject\TKS60th\Solutions\Engine\obj\Debug\Engine.vbprojResolveAssemblyReference.cache
+D:\MyProject\TKS60th\Solutions\Engine\obj\Debug\Engine.Resources.resources
+D:\MyProject\TKS60th\Solutions\Engine\obj\Debug\Engine.vbproj.GenerateResource.Cache
+D:\MyProject\TKS60th\Solutions\Engine\obj\Debug\Engine.dll
+D:\MyProject\TKS60th\Solutions\Engine\obj\Debug\Engine.xml
+D:\MyProject\TKS60th\Solutions\Engine\obj\Debug\Engine.pdb
+D:\MyProject\TKS60th\Solutions\Engine\bin\Debug\Impinj.OctaneSdk.dll
+D:\MyProject\TKS60th\Solutions\Engine\bin\Debug\LLRP.dll
+D:\MyProject\TKS60th\Solutions\Engine\bin\Debug\LLRP.Impinj.dll

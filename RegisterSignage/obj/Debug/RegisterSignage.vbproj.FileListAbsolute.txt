@@ -1,0 +1,17 @@
+D:\MyProject\TKS60th\Solutions\RegisterSignage\bin\Debug\RegisterSignage.exe.config
+D:\MyProject\TKS60th\Solutions\RegisterSignage\bin\Debug\RegisterSignage.exe
+D:\MyProject\TKS60th\Solutions\RegisterSignage\bin\Debug\RegisterSignage.pdb
+D:\MyProject\TKS60th\Solutions\RegisterSignage\bin\Debug\RegisterSignage.xml
+D:\MyProject\TKS60th\Solutions\RegisterSignage\bin\Debug\Engine.dll
+D:\MyProject\TKS60th\Solutions\RegisterSignage\bin\Debug\LinqDB.dll
+D:\MyProject\TKS60th\Solutions\RegisterSignage\bin\Debug\Engine.pdb
+D:\MyProject\TKS60th\Solutions\RegisterSignage\bin\Debug\Engine.xml
+D:\MyProject\TKS60th\Solutions\RegisterSignage\bin\Debug\LinqDB.pdb
+D:\MyProject\TKS60th\Solutions\RegisterSignage\bin\Debug\LinqDB.xml
+D:\MyProject\TKS60th\Solutions\RegisterSignage\obj\Debug\RegisterSignage.vbprojResolveAssemblyReference.cache
+D:\MyProject\TKS60th\Solutions\RegisterSignage\obj\Debug\RegisterSignage.frmRegisterSignage.resources
+D:\MyProject\TKS60th\Solutions\RegisterSignage\obj\Debug\RegisterSignage.Resources.resources
+D:\MyProject\TKS60th\Solutions\RegisterSignage\obj\Debug\RegisterSignage.vbproj.GenerateResource.Cache
+D:\MyProject\TKS60th\Solutions\RegisterSignage\obj\Debug\RegisterSignage.exe
+D:\MyProject\TKS60th\Solutions\RegisterSignage\obj\Debug\RegisterSignage.xml
+D:\MyProject\TKS60th\Solutions\RegisterSignage\obj\Debug\RegisterSignage.pdb
